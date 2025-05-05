@@ -1,6 +1,12 @@
 ![logo](https://github.com/Hassan123j/Hassan123j/blob/main/Hello%2C%20my%20name%20is%20Hassan%20Ahmed.%20Nice%20to%20meet%20you..png)
 # About Me:
-A couple of years ago, I found myself wondering how machines understand language something that felt almost magical. That curiosity led to countless hours reading about neural networks, diving into Sir Andrew Ng's AI lectures, watching tutorials, and building small models that barely worked. But every failure taught me something new, and that’s where my journey in AI truly began.<br><br>Fast forward to now, I’m an AI/ML engineer, deeply immersed in exploring the fascinating fields of LLMs, NLP, deep learning, and autonomous agents. I’m learning by doing, not just following the latest trends, but focusing on understanding how these systems actually function what they can achieve, and how we can harness their power to solve real-world challenges.<br><br>I don’t claim to know everything (far from it!), but that’s what excites me about this field. There’s always more to discover, and I’m constantly experimenting, learning, and iterating. I love the process: the debugging, the breakthroughs, and even those moments when things don’t work as planned. It’s all part of the journey, and it’s where growth happens.<br><br>If you’re working on something innovative in AI, exploring similar ideas, or simply want to share thoughts and collaborate I’m always open to connecting, learning together, and offering help where I can. Let’s build something impactful!
+A couple of years ago, I got curious about how machines understand language — something that felt like magic at the time. That curiosity turned into a passion, and soon I was knee-deep in neural networks, Andrew Ng’s AI courses, YouTube deep dives, and building toy models that barely worked (but taught me a ton).
+
+Now, I’m an AI/ML engineer exploring the amazing world of LLMs, NLP, deep learning, and autonomous agents. I like getting my hands dirty — reading papers, breaking models, fixing them, and figuring out how to make things actually work.
+
+I’m not here to show off perfect code. I’m here to learn, experiment, and grow — and GitHub is where I share that journey. From half-broken prototypes to polished projects, it’s all part of the ride.
+
+If you're into AI, working on something interesting, or just want to chat or collaborate — feel free to reach out. Let’s build cool stuff together!
 
 
 ## Socials:
