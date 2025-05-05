@@ -1,17 +1,18 @@
 ![logo](https://github.com/Hassan123j/Hassan123j/blob/main/Hello%2C%20my%20name%20is%20Hassan%20Ahmed.%20Nice%20to%20meet%20you..png)
 # About Me:
-A couple of years ago, I got curious about how machines understand language — something that felt like magic at the time. That curiosity turned into a passion, and soon I was knee-deep in neural networks, Andrew Ng’s AI courses, YouTube deep dives, and building toy models that barely worked (but taught me a ton).
+A couple of years ago, I got curious about how machines understand language something that felt like magic at the time. That curiosity turned into a passion, and soon I was knee-deep in neural networks, Andrew Ng’s AI courses, YouTube deep dives, and building toy models that barely worked (but taught me a ton).
 
-Now, I’m an AI/ML engineer exploring the amazing world of LLMs, NLP, deep learning, and autonomous agents. I like getting my hands dirty — reading papers, breaking models, fixing them, and figuring out how to make things actually work.
+Now, I’m an AI/ML engineer exploring the amazing world of LLMs, NLP, deep learning, and autonomous agents. I like getting my hands dirty reading papers, breaking models, fixing them, and figuring out how to make things actually work.
 
-I’m not here to show off perfect code. I’m here to learn, experiment, and grow — and GitHub is where I share that journey. From half-broken prototypes to polished projects, it’s all part of the ride.
+I’m not here to show off perfect code. I’m here to learn, experiment, and grow and GitHub is where I share that journey. From half-broken prototypes to polished projects, it’s all part of the ride.
 
-If you're into AI, working on something interesting, or just want to chat or collaborate — feel free to reach out. Let’s build cool stuff together!
+If you're into AI, working on something interesting, or just want to chat or collaborate feel free to reach out. Let’s build cool stuff together!
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hassan-ahmed-ai/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@hassanahmed.dev1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/24835986/hassan-ahmed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HassanA13614) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassanahmed.dev1@gmail.com) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hassan-ahmed-ai/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassanahmed.dev1@gmail.com) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@hassanahmed.dev1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/24835986/hassan-ahmed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HassanA13614) 
 # Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
