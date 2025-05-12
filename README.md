@@ -1,12 +1,13 @@
 ![logo](https://github.com/Hassan123j/Hassan123j/blob/main/Hello%2C%20my%20name%20is%20Hassan%20Ahmed.%20Nice%20to%20meet%20you..png)
 # About Me:
-A couple of years ago, I got curious about how machines understand language something that felt like magic at the time. That curiosity turned into a passion, and soon I was knee-deep in neural networks, Andrew Ng’s AI courses, YouTube deep dives, and building toy models that barely worked (but taught me a ton).
+A few years ago, I was simply curious about how machines understand language. That curiosity led me to stay up late reading about neural networks, watching Sir Andrew Ng's AI lectures, and experimenting with small models that didn’t always work, but taught me so much.
 
-Now, I’m an AI/ML engineer exploring the amazing world of LLMs, NLP, deep learning, and autonomous agents. I like getting my hands dirty reading papers, breaking models, fixing them, and figuring out how to make things actually work.
+Today, I’m an aspiring AI/ML enthusiast, diving deeper into the world of LLMs, NLP, deep learning, and autonomous agents. I’m focused on learning by doing rather than just following trends, I’m dedicated to understanding how these systems work, what they can do, and how they can solve real-world problems.
 
-I’m not here to show off perfect code. I’m here to learn, experiment, and grow and GitHub is where I share that journey. From half-broken prototypes to polished projects, it’s all part of the ride.
+While I don’t claim to have all the answers (I’m still learning every day), I’m excited about the journey. I embrace the challenges whether it's debugging, tackling obstacles, or finding the “aha” moments. It’s all part of the growth.
 
-If you're into AI, working on something interesting, or just want to chat or collaborate feel free to reach out. Let’s build cool stuff together!
+I’m actively looking for internship opportunities where I can contribute, learn, and grow, and I am open to global opportunities. If you're working on something related to AI, or simply want to connect and share ideas, I’d love to hear from you.
+
 
 
 ## Socials:
