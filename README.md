@@ -1,12 +1,27 @@
 ![logo](https://github.com/Hassan123j/Hassan123j/blob/main/Hello%2C%20my%20name%20is%20Hassan%20Ahmed.%20Nice%20to%20meet%20you..png)
 # About Me:
-A few years ago, I was simply curious about how machines understand language. That curiosity led me to stay up late reading about neural networks, watching Sir Andrew Ng's AI lectures, and experimenting with small models that didn’t always work, but taught me so much.
+A few years ago, I became curious about how machines “understand” language. That curiosity led to late nights with neural nets, Andrew Ng lectures, and models that often broke but always taught me something valuable.
 
-Today, I’m an aspiring AI/ML enthusiast, diving deeper into the world of LLMs, NLP, deep learning, and autonomous agents. I’m focused on learning by doing rather than just following trends, I’m dedicated to understanding how these systems work, what they can do, and how they can solve real-world problems.
+Today, I'm an aspiring AI/ML engineer with a strong interest in applying advanced AI techniques to solve real-world problems in healthcare. My focus areas include Generative AI, Large Language Models (LLMs), and Natural Language Processing (NLP) particularly in clinical reasoning, medical document analysis, and disease prediction.
 
-While I don’t claim to have all the answers (I’m still learning every day), I’m excited about the journey. I embrace the challenges whether it's debugging, tackling obstacles, or finding the “aha” moments. It’s all part of the growth.
+Projects
+MediBot – An AI assistant that reads and answers medical PDFs using Retrieval-Augmented Generation (RAG) and LLMs.
 
-I’m actively looking for internship opportunities where I can contribute, learn, and grow, and I am open to global opportunities. If you're working on something related to AI, or simply want to connect and share ideas, I’d love to hear from you.
+Fine-tuned DeepSeek for Medical QA – A domain-specific model fine-tuned to improve diagnostic support.
+
+Skin Cancer Detection CNN – A convolutional neural network that classifies skin lesions with 94% accuracy.
+
+CKD Risk Predictor – A machine learning model that helps assess chronic kidney disease risk using clinical data.
+
+What Drives Me
+I believe in learning by doing. I’m driven by the potential of AI to improve patient care, accelerate medical research, and expand access to healthcare.
+
+Let's Connect
+I'm currently looking for remote AI internships, research roles, or entry-level opportunities, especially with early-stage or mission-driven healthtech startups building AI-first solutions.
+
+If you're working on something impactful at the intersection of AI and healthcare or just want to exchange ideas—I'd love to connect.
+
+
 
 
 
